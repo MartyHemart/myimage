@@ -1,0 +1,27 @@
+
+body{
+    background: #3edfff;
+}
+
+
+.bouton {
+  position:absolute;
+      left: 50%;
+      top: 50%;
+      width: 200px;
+      height: 200px;
+      margin-left: -100px; /* Cette valeur doit être la moitié négative de la valeur du width */
+      margin-top: -100px; /
+      text-align: center;
+}
+
+.titre {
+  text-align: center;
+}
+
+.resultat {
+  background-color: aliceblue;
+  text-align: center;
+  margin-left: 32%;
+  margin-right: 32%;
+}
